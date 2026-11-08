@@ -12,6 +12,16 @@
   },
   {
    "d": "2026-11-03",
+   "k": "IG/FB",
+   "f": "Reel",
+   "t": "Zehn Minuten Tageslicht",
+   "s": "ashwagandha",
+   "n": "",
+   "st": "geplant",
+   "w": "Elisabeth"
+  },
+  {
+   "d": "2026-11-03",
    "k": "YT/TT",
    "f": "Clip",
    "t": "Folge 5 · Pitta",
@@ -31,6 +41,16 @@
    "w": "Vin"
   },
   {
+   "d": "2026-11-04",
+   "k": "IG/FB",
+   "f": "Reel",
+   "t": "Reel (nicht im Plan)",
+   "s": "ashwagandha",
+   "n": "",
+   "st": "veröffentlicht",
+   "w": "Elisabeth"
+  },
+  {
    "d": "2026-11-05",
    "k": "IG/FB",
    "f": "Karussell",
@@ -44,10 +64,10 @@
    "d": "2026-11-06",
    "k": "IG/FB",
    "f": "Reel",
-   "t": "Ayurveda Friday: Hemanta beginnt",
+   "t": "Ayurveda Friday: Hemanta beginnt bald",
    "s": "ashwagandha",
    "n": "",
-   "st": "geplant",
+   "st": "veröffentlicht",
    "w": "Elisabeth"
   },
   {
@@ -264,7 +284,7 @@
    "d": "2026-11-25",
    "k": "IG/FB",
    "f": "Karussell",
-   "t": "Gewürze der Adventsbäckerei",
+   "t": "Welche Gewürze gehören in die Adventsbäckerei?",
    "s": "bittermelone",
    "n": "",
    "st": "geplant",
@@ -342,16 +362,6 @@
   },
   {
    "d": "2026-12-03",
-   "k": "HSE",
-   "f": "Sendung",
-   "t": "Live bei HSE · 19 und 22 Uhr",
-   "s": "hse",
-   "n": "",
-   "st": "geplant",
-   "w": "HSE"
-  },
-  {
-   "d": "2026-12-03",
    "k": "IG/FB",
    "f": "Stories",
    "t": "Sendezeiten 19 und 22 Uhr",
@@ -361,10 +371,10 @@
    "w": "Vin"
   },
   {
-   "d": "2026-12-04",
+   "d": "2026-12-03",
    "k": "HSE",
    "f": "Sendung",
-   "t": "Live bei HSE · 8, 15 und 20 Uhr",
+   "t": "Live bei HSE · 19 und 22 Uhr",
    "s": "hse",
    "n": "",
    "st": "geplant",
@@ -389,6 +399,16 @@
    "n": "",
    "st": "geplant",
    "w": "Vin"
+  },
+  {
+   "d": "2026-12-04",
+   "k": "HSE",
+   "f": "Sendung",
+   "t": "Live bei HSE · 8, 15 und 20 Uhr",
+   "s": "hse",
+   "n": "",
+   "st": "geplant",
+   "w": "HSE"
   },
   {
    "d": "2026-12-04",
