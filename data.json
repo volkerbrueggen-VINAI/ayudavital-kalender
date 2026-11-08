@@ -47,7 +47,7 @@
    "t": "Ayurveda Friday: Hemanta beginnt",
    "s": "ashwagandha",
    "n": "",
-   "st": "veröffentlicht",
+   "st": "geplant",
    "w": "Elisabeth"
   },
   {
@@ -152,6 +152,16 @@
   },
   {
    "d": "2026-11-17",
+   "k": "IG/FB",
+   "f": "Reel",
+   "t": "Pflanzenfilm Bittermelone (Reel-Fassung)",
+   "s": "bittermelone",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2026-11-17",
    "k": "YT/TT",
    "f": "Pflanzenfilm",
    "t": "Bittermelone",
@@ -234,7 +244,7 @@
    "d": "2026-11-24",
    "k": "IG/FB",
    "f": "Reel",
-   "t": "Gewürzplätzchen für den Advent",
+   "t": "Gewürzplätzchen für den 1. Advent",
    "s": "bittermelone",
    "n": "",
    "st": "geplant",
@@ -303,7 +313,7 @@
   {
    "d": "2026-11-30",
    "k": "IG/FB",
-   "f": "Foto",
+   "f": "Foto mit Gesicht",
    "t": "Das ganze Sortiment live bei HSE",
    "s": "sendung",
    "n": "",
@@ -341,6 +351,16 @@
    "w": "HSE"
   },
   {
+   "d": "2026-12-03",
+   "k": "IG/FB",
+   "f": "Stories",
+   "t": "Sendezeiten 19 und 22 Uhr",
+   "s": "sendung",
+   "n": "",
+   "st": "geplant",
+   "w": "Vin"
+  },
+  {
    "d": "2026-12-04",
    "k": "HSE",
    "f": "Sendung",
@@ -362,6 +382,16 @@
   },
   {
    "d": "2026-12-04",
+   "k": "IG/FB",
+   "f": "Stories",
+   "t": "Sendezeiten 8, 15 und 20 Uhr",
+   "s": "sendung",
+   "n": "",
+   "st": "geplant",
+   "w": "Vin"
+  },
+  {
+   "d": "2026-12-04",
    "k": "YT/TT",
    "f": "Clip",
    "t": "Folge 12 · Ayurveda in Deutschland",
@@ -373,7 +403,7 @@
   {
    "d": "2026-12-05",
    "k": "IG/FB",
-   "f": "Bild",
+   "f": "Einzelbild + Story",
    "t": "Danke – weiter im HSE-Shop",
    "s": "sendung",
    "n": "",
@@ -422,6 +452,16 @@
   },
   {
    "d": "2026-12-10",
+   "k": "IG/FB",
+   "f": "Reel",
+   "t": "Indischer Weihrauch (Reel-Fassung)",
+   "s": "weihrauch",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2026-12-10",
    "k": "YT/TT",
    "f": "Clip",
    "t": "Indischer Weihrauch: Herkunft & Ritual",
@@ -464,7 +504,7 @@
    "d": "2026-12-14",
    "k": "IG/FB",
    "f": "Karussell",
-   "t": "Ab dem 22. Dezember wird es wieder heller",
+   "t": "Ab dem 22. Dezember wird es wieder heller. Wie viel bis Neujahr?",
    "s": "feiertage",
    "n": "",
    "st": "geplant",
@@ -559,136 +599,6 @@
    "n": "",
    "st": "geplant",
    "w": "HSE"
-  },
-  {
-   "d": "2026-11-04",
-   "k": "IG/FB",
-   "f": "Reel",
-   "t": "Reel (nicht im Plan)",
-   "s": "ashwagandha",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": "Elisabeth"
-  },
-  {
-   "d": "2026-11-08",
-   "k": "YT/TT",
-   "f": "Pflanzenfilm",
-   "t": "Bittermelone (Entwurf in Metricool)",
-   "s": "bittermelone",
-   "n": "",
-   "st": "entwurf",
-   "w": "Volker"
-  },
-  {
-   "d": "2026-10-19",
-   "k": "IG/FB",
-   "f": "Reel",
-   "t": "Ingwer wächst nirgends wild – er ist eine reine Kulturpflanz (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-15",
-   "k": "IG/FB",
-   "f": "Karussell",
-   "t": "Wie lange waschen Sie Ihre Hände, ehrlich gezählt? 🧼 (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-17",
-   "k": "IG/FB",
-   "f": "Karussell",
-   "t": "Was macht Ingwer so scharf? 🫚 (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-18",
-   "k": "YT/TT",
-   "f": "Clip",
-   "t": "Was bedeutet Ayurveda eigentlich? Āyur heißt Leben, Veda hei (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-20",
-   "k": "IG/FB",
-   "f": "Karussell",
-   "t": "Warum schniefen gerade jetzt alle? 🤧 (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-23",
-   "k": "YT/TT",
-   "f": "Clip",
-   "t": "Gleicher Sommertag, drei Menschen: Pedro schwitzt, Kaya blei (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-27",
-   "k": "YT/TT",
-   "f": "Clip",
-   "t": "Pedro, Kaya und Vincent haben einen Termin bei einer Ayurved (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-23",
-   "k": "IG/FB",
-   "f": "Karussell",
-   "t": "Was rät der Ayurveda, wenn es kalt wird? 🫖 (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-26",
-   "k": "IG/FB",
-   "f": "Karussell",
-   "t": "Was bringt eine Stunde mehr Schlaf? 😴 (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-31",
-   "k": "IG/FB",
-   "f": "Karussell",
-   "t": "Die perfekte Kürbissuppe nach ayurvedischer Art. Halloween i (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
-  },
-  {
-   "d": "2026-10-30",
-   "k": "YT/TT",
-   "f": "Clip",
-   "t": "Ein kalter, windiger Herbsttag: Pedro läuft in Hemdsärmeln, (nicht im Plan)",
-   "s": "",
-   "n": "",
-   "st": "veröffentlicht",
-   "w": ""
   }
  ],
  "themes": [
