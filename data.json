@@ -107,7 +107,7 @@
    "t": "Daal: abends früh und leicht essen",
    "s": "baldrian",
    "n": "",
-   "st": "geplant",
+   "st": "veröffentlicht",
    "w": "Elisabeth"
   },
   {
@@ -117,7 +117,7 @@
    "t": "Folge 7 · Warum warm und kühl?",
    "s": "grundlagen",
    "n": "",
-   "st": "eingeplant",
+   "st": "veröffentlicht",
    "w": "Volker"
   },
   {
@@ -347,7 +347,7 @@
    "t": "Folge 11 · Mehr als Wellness",
    "s": "grundlagen",
    "n": "",
-   "st": "geplant",
+   "st": "entwurf",
    "w": "Volker"
   },
   {
@@ -648,5 +648,5 @@
   "2026-12-21",
   "2027-01-03"
  ],
- "stand": "10.11.2026"
+ "stand": "11.11.2026"
 }
