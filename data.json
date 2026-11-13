@@ -131,6 +131,16 @@
    "w": "Vin"
   },
   {
+   "d": "2026-11-12",
+   "k": "IG/FB",
+   "f": "Karussell",
+   "t": "Karussell (nicht im Plan)",
+   "s": "baldrian",
+   "n": "",
+   "st": "veröffentlicht",
+   "w": "Vin"
+  },
+  {
    "d": "2026-11-13",
    "k": "IG/FB",
    "f": "Reel",
@@ -362,6 +372,16 @@
   },
   {
    "d": "2026-12-03",
+   "k": "HSE",
+   "f": "Sendung",
+   "t": "Live bei HSE · 19 und 22 Uhr",
+   "s": "hse",
+   "n": "",
+   "st": "geplant",
+   "w": "HSE"
+  },
+  {
+   "d": "2026-12-03",
    "k": "IG/FB",
    "f": "Stories",
    "t": "Sendezeiten 19 und 22 Uhr",
@@ -371,10 +391,10 @@
    "w": "Vin"
   },
   {
-   "d": "2026-12-03",
+   "d": "2026-12-04",
    "k": "HSE",
    "f": "Sendung",
-   "t": "Live bei HSE · 19 und 22 Uhr",
+   "t": "Live bei HSE · 8, 15 und 20 Uhr",
    "s": "hse",
    "n": "",
    "st": "geplant",
@@ -399,16 +419,6 @@
    "n": "",
    "st": "geplant",
    "w": "Vin"
-  },
-  {
-   "d": "2026-12-04",
-   "k": "HSE",
-   "f": "Sendung",
-   "t": "Live bei HSE · 8, 15 und 20 Uhr",
-   "s": "hse",
-   "n": "",
-   "st": "geplant",
-   "w": "HSE"
   },
   {
    "d": "2026-12-04",
@@ -601,6 +611,16 @@
    "w": "Elisabeth"
   },
   {
+   "d": "2027-01-12",
+   "k": "YT/TT",
+   "f": "Pflanzenfilm",
+   "t": "Triphala (nicht im Plan)",
+   "s": "triphala",
+   "n": "",
+   "st": "entwurf",
+   "w": "Volker"
+  },
+  {
    "d": "2027-02-02",
    "k": "IG/FB",
    "f": "Bild + Reel",
@@ -648,5 +668,5 @@
   "2026-12-21",
   "2027-01-03"
  ],
- "stand": "12.11.2026"
+ "stand": "13.11.2026"
 }
