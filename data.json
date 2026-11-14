@@ -157,7 +157,7 @@
    "t": "Folge 8 · Sechs Geschmäcker",
    "s": "grundlagen",
    "n": "",
-   "st": "eingeplant",
+   "st": "veröffentlicht",
    "w": "Volker"
   },
   {
@@ -167,7 +167,7 @@
    "t": "Kauf: Indischer Baldrian mit Melatonin",
    "s": "baldrian",
    "n": "",
-   "st": "geplant",
+   "st": "entwurf",
    "w": "Vin"
   },
   {
@@ -668,5 +668,5 @@
   "2026-12-21",
   "2027-01-03"
  ],
- "stand": "13.11.2026"
+ "stand": "14.11.2026"
 }
