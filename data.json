@@ -177,7 +177,7 @@
    "t": "Warum schmeckt Rosenkohl nach dem Frost milder?",
    "s": "bittermelone",
    "n": "",
-   "st": "eingeplant",
+   "st": "veröffentlicht",
    "w": "Vin"
   },
   {
@@ -356,6 +356,16 @@
    "f": "Clip",
    "t": "Folge 11 · Mehr als Wellness",
    "s": "grundlagen",
+   "n": "",
+   "st": "eingeplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2026-12-01",
+   "k": "YT/TT",
+   "f": "Pflanzenfilm",
+   "t": "Kurkuma (nicht im Plan)",
+   "s": "sendung",
    "n": "",
    "st": "entwurf",
    "w": "Volker"
@@ -668,5 +678,5 @@
   "2026-12-21",
   "2027-01-03"
  ],
- "stand": "16.11.2026"
+ "stand": "17.11.2026"
 }
