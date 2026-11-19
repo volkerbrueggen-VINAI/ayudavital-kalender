@@ -207,8 +207,18 @@
    "t": "Blutzucker im Alltag: Was hat Chrom damit zu tun?",
    "s": "bittermelone",
    "n": "",
-   "st": "eingeplant",
+   "st": "veröffentlicht",
    "w": "Vin"
+  },
+  {
+   "d": "2026-11-18",
+   "k": "IG/FB",
+   "f": "Reel",
+   "t": "Reel (nicht im Plan)",
+   "s": "bittermelone",
+   "n": "",
+   "st": "veröffentlicht",
+   "w": "Elisabeth"
   },
   {
    "d": "2026-11-19",
@@ -678,5 +688,5 @@
   "2026-12-21",
   "2027-01-03"
  ],
- "stand": "18.11.2026"
+ "stand": "19.11.2026"
 }
