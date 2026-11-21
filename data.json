@@ -247,7 +247,7 @@
    "t": "Ayurveda Friday: Abendritual",
    "s": "bittermelone",
    "n": "",
-   "st": "geplant",
+   "st": "veröffentlicht",
    "w": "Elisabeth"
   },
   {
@@ -257,7 +257,7 @@
    "t": "Chrom (Mikronährstoff)",
    "s": "bittermelone",
    "n": "",
-   "st": "eingeplant",
+   "st": "veröffentlicht",
    "w": "Volker"
   },
   {
@@ -688,5 +688,5 @@
   "2026-12-21",
   "2027-01-03"
  ],
- "stand": "20.11.2026"
+ "stand": "21.11.2026"
 }
