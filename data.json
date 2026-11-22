@@ -267,7 +267,7 @@
    "t": "Kauf: Bittermelone mit Chrom",
    "s": "bittermelone",
    "n": "",
-   "st": "geplant",
+   "st": "veröffentlicht",
    "w": "Vin"
   },
   {
@@ -688,5 +688,5 @@
   "2026-12-21",
   "2027-01-03"
  ],
- "stand": "21.11.2026"
+ "stand": "22.11.2026"
 }
