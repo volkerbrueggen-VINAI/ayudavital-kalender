@@ -287,7 +287,7 @@
    "t": "Gewürzplätzchen für den 1. Advent",
    "s": "bittermelone",
    "n": "",
-   "st": "geplant",
+   "st": "veröffentlicht",
    "w": "Elisabeth"
   },
   {
@@ -297,7 +297,7 @@
    "t": "Folge 9 · Der ayurvedische Tag",
    "s": "grundlagen",
    "n": "",
-   "st": "eingeplant",
+   "st": "veröffentlicht",
    "w": "Volker"
   },
   {
@@ -307,7 +307,7 @@
    "t": "Welche Gewürze gehören in die Adventsbäckerei?",
    "s": "bittermelone",
    "n": "",
-   "st": "geplant",
+   "st": "eingeplant",
    "w": "Vin"
   },
   {
@@ -688,5 +688,5 @@
   "2026-12-21",
   "2027-01-03"
  ],
- "stand": "24.11.2026"
+ "stand": "25.11.2026"
 }
