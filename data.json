@@ -307,7 +307,7 @@
    "t": "Welche Gewürze gehören in die Adventsbäckerei?",
    "s": "bittermelone",
    "n": "",
-   "st": "eingeplant",
+   "st": "veröffentlicht",
    "w": "Vin"
   },
   {
@@ -394,7 +394,7 @@
    "d": "2026-12-03",
    "k": "HSE",
    "f": "Sendung",
-   "t": "Live bei HSE · 19 und 22 Uhr",
+   "t": "Live bei HSE · Livestream 14 Uhr, Sendungen 19 und 22 Uhr",
    "s": "hse",
    "n": "",
    "st": "geplant",
@@ -404,7 +404,7 @@
    "d": "2026-12-03",
    "k": "IG/FB",
    "f": "Stories",
-   "t": "Sendezeiten 19 und 22 Uhr",
+   "t": "Livestream 14 Uhr, Sendezeiten 19 und 22 Uhr",
    "s": "sendung",
    "n": "",
    "st": "geplant",
@@ -631,6 +631,56 @@
    "w": "Elisabeth"
   },
   {
+   "d": "2027-01-04",
+   "k": "IG/FB",
+   "f": "Karussell",
+   "t": "Wann haben Sie zuletzt um zwölf Uhr warm gegessen?",
+   "s": "triphala",
+   "n": "",
+   "st": "geplant",
+   "w": "Vin"
+  },
+  {
+   "d": "2027-01-05",
+   "k": "IG/FB",
+   "f": "Reel",
+   "t": "Mittag um zwölf – ein warmes Gemüsegericht in 15 Minuten",
+   "s": "triphala",
+   "n": "",
+   "st": "geplant",
+   "w": "Elisabeth"
+  },
+  {
+   "d": "2027-01-05",
+   "k": "YT/TT",
+   "f": "Pflanzenfilm",
+   "t": "Triphala",
+   "s": "triphala",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2027-01-06",
+   "k": "IG/FB",
+   "f": "Karussell",
+   "t": "Cholin: Kennen Sie diesen Nährstoff?",
+   "s": "triphala",
+   "n": "",
+   "st": "geplant",
+   "w": "Vin"
+  },
+  {
+   "d": "2027-01-08",
+   "k": "YT/TT",
+   "f": "Clip",
+   "t": "Folge 15 · Die fünf Elemente",
+   "s": "grundlagen",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
    "d": "2027-01-12",
    "k": "YT/TT",
    "f": "Pflanzenfilm",
@@ -639,6 +689,136 @@
    "n": "",
    "st": "entwurf",
    "w": "Volker"
+  },
+  {
+   "d": "2027-01-14",
+   "k": "YT/TT",
+   "f": "Clip",
+   "t": "Triphala: Herkunft",
+   "s": "triphala",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2027-01-15",
+   "k": "IG/FB",
+   "f": "Reel",
+   "t": "Ayurveda Friday: Drei Früchte, ein Name",
+   "s": "triphala",
+   "n": "",
+   "st": "geplant",
+   "w": "Elisabeth"
+  },
+  {
+   "d": "2027-01-15",
+   "k": "YT/TT",
+   "f": "Clip",
+   "t": "Cholin (Mikronährstoff)",
+   "s": "triphala",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2027-01-16",
+   "k": "IG/FB",
+   "f": "Karussell",
+   "t": "Kauf: Drei Früchte, die in Indien jedes Kind kennt",
+   "s": "triphala",
+   "n": "",
+   "st": "geplant",
+   "w": "Vin"
+  },
+  {
+   "d": "2027-01-18",
+   "k": "IG/FB",
+   "f": "Karussell",
+   "t": "Warum wird Grünkohl erst nach dem Frost geerntet?",
+   "s": "fenchel",
+   "n": "",
+   "st": "geplant",
+   "w": "Vin"
+  },
+  {
+   "d": "2027-01-19",
+   "k": "IG/FB",
+   "f": "Reel",
+   "t": "Grünkohl aus dem Topf",
+   "s": "fenchel",
+   "n": "",
+   "st": "geplant",
+   "w": "Elisabeth"
+  },
+  {
+   "d": "2027-01-19",
+   "k": "YT/TT",
+   "f": "Pflanzenfilm",
+   "t": "Fenchel-Kümmel",
+   "s": "fenchel",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2027-01-20",
+   "k": "IG/FB",
+   "f": "Karussell",
+   "t": "Verdauungsenzyme zerlegen Ihr Essen. Wer hilft ihnen dabei?",
+   "s": "fenchel",
+   "n": "",
+   "st": "geplant",
+   "w": "Vin"
+  },
+  {
+   "d": "2027-01-22",
+   "k": "YT/TT",
+   "f": "Clip",
+   "t": "Folge 16 · Die drei Lebensabschnitte",
+   "s": "grundlagen",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2027-01-28",
+   "k": "YT/TT",
+   "f": "Clip",
+   "t": "Fenchel und Kümmel: Herkunft",
+   "s": "fenchel",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2027-01-29",
+   "k": "IG/FB",
+   "f": "Reel",
+   "t": "Ayurveda Friday: Fenchel in der indischen Küche",
+   "s": "fenchel",
+   "n": "",
+   "st": "geplant",
+   "w": "Elisabeth"
+  },
+  {
+   "d": "2027-01-29",
+   "k": "YT/TT",
+   "f": "Clip",
+   "t": "Calcium (Mikronährstoff)",
+   "s": "fenchel",
+   "n": "",
+   "st": "geplant",
+   "w": "Volker"
+  },
+  {
+   "d": "2027-01-30",
+   "k": "IG/FB",
+   "f": "Karussell",
+   "t": "Kauf: Fenchel und Kümmel: zwei Samen, eine Kapsel",
+   "s": "fenchel",
+   "n": "",
+   "st": "geplant",
+   "w": "Vin"
   },
   {
    "d": "2027-02-02",
@@ -664,29 +844,36 @@
  "themes": [
   {
    "a": "2027-01-04",
-   "b": "2027-01-10",
-   "t": "Amla · Haut im Winter",
-   "s": "amla",
-   "n": "Thema"
-  },
-  {
-   "a": "2027-01-11",
    "b": "2027-01-17",
-   "t": "Triphala · Nach den Feiertagen",
+   "t": "Triphala · Feste Zeiten im Januar",
    "s": "triphala",
-   "n": "Thema · YT-Produktwoche 12./14./15.01."
+   "n": "Thema"
   },
   {
    "a": "2027-01-18",
    "b": "2027-01-31",
-   "t": "Fenchel-Kümmel",
+   "t": "Fenchel-Kümmel · Grünkohlzeit",
    "s": "fenchel",
-   "n": "Thema · YT-Produktwoche 26./28./29.01."
+   "n": "Thema"
+  },
+  {
+   "a": "2027-02-01",
+   "b": "2027-02-14",
+   "t": "Sendung & Marke · Fenchel-Kümmel bei HSE (nur nach Bestätigung)",
+   "s": "sendung",
+   "n": "Thema"
+  },
+  {
+   "a": "2027-02-15",
+   "b": "2027-02-28",
+   "t": "Ingwer mit Vitamin C · Februar draußen",
+   "s": "ingwer",
+   "n": "Thema · YT-Produktwoche Ingwer"
   }
  ],
  "pause": [
   "2026-12-21",
   "2027-01-03"
  ],
- "stand": "25.11.2026"
+ "stand": "26.11.2026"
 }
